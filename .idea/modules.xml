@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MaterialDesign03.iml" filepath="$PROJECT_DIR$/MaterialDesign03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidStudio_MaterialDesign03.iml" filepath="$PROJECT_DIR$/.idea/AndroidStudio_MaterialDesign03.iml" />
+      <module fileurl="file://C:\Users\jesus\StudioProjects\AndroidStudio_MaterialDesign03\MaterialDesign03.iml" filepath="C:\Users\jesus\StudioProjects\AndroidStudio_MaterialDesign03\MaterialDesign03.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
